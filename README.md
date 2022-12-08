@@ -13,13 +13,10 @@ just wait for the Official/Pre/First release :)
 # Authors
 
 - [Knrl](https://www.github.com/TW-Knrl) For Launcher, Console, Server...
-- [NeoniteDev](https://www.github.com/NeoniteDev) for Backend Template
-- [SpencerDring](https://www.github.com/SpencerDring) for Old Aurora Backend Inspiration x1
 - [StormFN](https://www.github.com/stormzyidk) for Launcher inspiration (hmm no)
 - [StormFN](https://www.github.com/stormzyglitches) the same person, but another account
-- [DriftLeaks](https://www.github.com/DriftLeaks) for Old Aurora Server inspiration
-- [01vinzy](https://github.com/01vinzy) for Old Aurora Backend inspiration x2
-- [Lawin](https://www.github.com/Lawin0129) for DLLs and Injector
+- [DriftLeaks](https://www.github.com/SpencerDring) for Backend Templat
+- [Lawin](https://www.github.com/Lawin0129) for Injector
 
 # Features
 
