@@ -1,8 +1,5 @@
 
-# AuroraV2
-
-The Remake of AuroraFN, 
-it's made with some inspiration, like Neonite backend or Lawin
+# Λurora
 
 # How To Download?
 
@@ -12,11 +9,11 @@ just wait for the Official/Pre/First release :)
 
 # Authors
 
-- [Knrl](https://www.github.com/TW-Knrl) For Launcher, Console, Server...
-- [StormFN](https://www.github.com/stormzyidk) for Launcher inspiration (hmm no)
-- [StormFN](https://www.github.com/stormzyglitches) the same person, but another account
-- [DriftLeaks](https://www.github.com/SpencerDring) for Backend Templat
-- [Lawin](https://www.github.com/Lawin0129) for Injector
+- [Knrl](https://www.github.com/TW-Knrl)
+- [Stormzy](https://www.github.com/stormzyidk)
+- [Stormzy](https://www.github.com/stormzyglitches)
+- [SpencerDring](https://www.github.com/SpencerDring)
+- [Lawin](https://www.github.com/Lawin0129)
 
 # Features
 
@@ -34,31 +31,3 @@ just wait for the Official/Pre/First release :)
 2. a brain (please don't spam tickets/posts on discord)
 3. Fortnite
 4. C runtime 
-
-## Npm Steps 
-
-Note: This is the server version go to /AuroraV2Launcher to download the launcher, and if you want full version go to /AuroraV2
-
-1. Download the SrC
-2. Extract all files
-
-now in CMD type
-
-```bash
-  npm install
-```
-wait...
- 
- then
-
-```bash
-  node .
- ```
-
- The console app, if you are using the Beta Version (i will upload), should say: 
-
- ```bash
-[Aurora] Aurora Server 1.5
-[Aurora] Working on port 80
-[Aurora] XMPP Working on port 443
-```
