@@ -14,6 +14,7 @@ just wait for the Official/Pre/First release :)
 - [Stormzy](https://www.github.com/stormzyglitches)
 - [SpencerDring](https://www.github.com/SpencerDring)
 - [Lawin](https://www.github.com/Lawin0129)
+- [psycho](https://www.github.com/psychoidk)
 
 # Features
 
